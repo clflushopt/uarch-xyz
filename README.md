@@ -1,4 +1,4 @@
-The XYZ's of Microarchitecture Exploitation and Measurements
+# The XYZ's of Microarchitecture Exploitation and Measurements
 
 The following repository contains code, helpers and other miscellany of tools
 useful for evaluating and measuring microarchitecture behavior for Intel CPUs
