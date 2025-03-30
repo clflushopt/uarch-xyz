@@ -45,4 +45,4 @@ Here are some nice plots.
 
 ## License
 
-[MIT]
+[MIT](LICENSE)
